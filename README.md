@@ -4,7 +4,7 @@ Copiez frostbite_cpu_usage_fix.bat dans le répertoire du jeu.
 
 Clic droit sur le fichier > Ouvrir
 
-Un terminal va s'ouvrir et vous demandez si vous voulez limiter les FPs du jeu.
+Un terminal va s'ouvrir et vous demander si vous voulez limiter les FPS du jeu.
 
 Rentrez une valeur puis appuyez sur entrée pour définir une valeur sinon appuyer simplement sur entrée.
 
